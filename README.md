@@ -1,20 +1,31 @@
-👋 Welcome to My GitHub Profile!
-✨ Hi there! I'm a passionate GIS developer who loves to solve complex coding problems and craft innovative solutions across the tech stack. Whether you're here to check out my projects or collaborate, I'm thrilled to share my work with you!
 
-🌟 What I Do
-💻 Backend Development: Building scalable, robust systems
-🎨 Frontend Development: Creating clean, responsive UIs
-⚙️ DevOps: Automating workflows and deploying applications seamlessly
-🔄 ETL (Extract, Transform, Load): Crafting efficient data pipelines, transforming raw data into meaningful insights
-📊 Data Visualization: Presenting data stories using Power BI and Looker Studio
-📝 Scripting and Automation: Automating tasks with Python, Google Scripts, and more
-🌐 Tech Stack
-Languages: JavaScript, Python, C++, SQL, HTML, CSS, JSON, Arcade
-Cloud: Google Cloud Platform (GCP)
-Tools: Power BI, Looker Studio, Google Scripts,ArcGIS ESRI Suite
-ETL: Data extraction, transformation, and loading for seamless data operations
-💡 What I Believe
-Coding is more than just writing code—it's about empowering solutions that make a difference. Whether it's a small script or a large-scale system, I'm here to create and collaborate!
+# 👋 Welcome to My GitHub Profile
 
-🤝 Let's Connect
-Explore my repositories, feel free to fork or contribute, and let's collaborate to turn ideas into reality! 🚀
+## About Me
+
+✨ Hi! I'm a passionate developer excited to solve complex coding challenges. I love building solutions that empower and inspire. Whether you’re here to explore, collaborate, or learn, I’m happy to have you!
+
+## What I Do
+
+I focus on:
+
+- **Backend Development**: Building scalable, robust systems
+- **Frontend Development**: Designing clean, accessible interfaces
+- **DevOps Automation**: Streamlining deployment and CI/CD processes
+- **ETL**: Efficiently Extract, Transform, and Load data for data pipelines
+- **Data Visualization**: Making data come alive with Power BI and Looker Studio
+- **Scripting and Automation**: Automating tasks using Python, Google Scripts, and more
+
+## Tech Stack
+
+- **Languages**: JavaScript, Python, C++, Ruby, SQL, HTML, CSS, JSON, Arcade
+- **Cloud Platforms**: Google Cloud Platform (GCP)
+- **Data Tools**: Power BI, Looker Studio
+- **ETL Processes**: Building robust data pipelines
+
+## Accessibility Commitment
+
+I believe in creating accessible content and applications. The code and projects I work on aim to be inclusive for all users. This profile README has been structured with accessibility in mind, ensuring everyone can read and navigate it comfortably.
+
+## How to Get in Touch
+Feel free to explore my repositories, fork projects, or send me a message! Let’s collaborate and build something amazing together. 🚀
