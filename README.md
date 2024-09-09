@@ -25,3 +25,6 @@ I focus on:
 
 ## How to Get in Touch
 Feel free to explore my repositories, fork projects, or send me a message! Let’s collaborate and build something amazing together. 🚀
+
+## Contact me
+Find me over on the [GitHub Profile]([https://github.blog/](https://github.com/Div-Eng/)
