@@ -27,4 +27,4 @@ I focus on:
 Feel free to explore my repositories, fork projects, or send me a message! Let’s collaborate and build something amazing together. 🚀
 
 ## Contact me
-Find me over on the [GitHub Profile](https://github.com/Div-Eng/)
+Find me over on my [GitHub Profile](https://github.com/Div-Eng/)
