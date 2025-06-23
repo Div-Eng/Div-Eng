@@ -13,13 +13,13 @@ I focus on:
 - **Frontend Development**: Designing clean, accessible interfaces
 - **DevOps Automation**: Streamlining deployment and CI/CD processes
 - **ETL**: Efficiently Extract, Transform, and Load data for data pipelines
-- **Data Visualization**: Making data come alive with Arc GIS Dashboards, Power BI, Looker Studio and Custom WEb Apps
+- **Data Visualization**: Making data come alive with Arc GIS Dashboards, Power BI, Looker Studio and Custom Web Apps
 - **Scripting and Automation**: Automating tasks using Python, Google Scripts, and more
 
 ## Tech Stack
 
-- **Languages**: JSON,JavaScript, Python, C++, SQL, HTML, CSS, JSON, ESRI Arcade
-- **Cloud Platforms**: Google Cloud Platform (GCP), ESRI ArcGIS AGOL Suite
+- **Languages**: JSON,JavaScript, Python, C++, SQL,PHP, HTML, CSS, JSON, ESRI Arcade
+- **Cloud Platforms**: Google Cloud Platform (GCP),Amazon Web Serrvices (AWS), ESRI ArcGIS AGOL Suite
 - **Data Tools**: Power BI, Looker Studio
 - **ETL Processes**: Building robust data pipelines
 
